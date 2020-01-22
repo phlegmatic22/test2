@@ -1,0 +1,4 @@
+"dotnet new console" uusi projekti alkuun
+"dotnet restore"
+"dotnet run" ajaa hello world
+environment .NET Core 

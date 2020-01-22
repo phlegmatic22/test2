@@ -1,0 +1,11 @@
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\bin\Debug\netcoreapp3.0\Csharp.exe
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\bin\Debug\netcoreapp3.0\Csharp.deps.json
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\bin\Debug\netcoreapp3.0\Csharp.runtimeconfig.json
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\bin\Debug\netcoreapp3.0\Csharp.runtimeconfig.dev.json
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\bin\Debug\netcoreapp3.0\Csharp.dll
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\bin\Debug\netcoreapp3.0\Csharp.pdb
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\obj\Debug\netcoreapp3.0\Csharp.csprojAssemblyReference.cache
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\obj\Debug\netcoreapp3.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\obj\Debug\netcoreapp3.0\Csharp.AssemblyInfo.cs
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\obj\Debug\netcoreapp3.0\Csharp.dll
+C:\Users\trelehtija\Desktop\Master\Omat projektit\Csharp\obj\Debug\netcoreapp3.0\Csharp.pdb
